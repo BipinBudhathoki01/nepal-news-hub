@@ -1,0 +1,22 @@
+export const FEEDS = [
+    { source: "Onlinekhabar", category: "General", url: "https://www.onlinekhabar.com/feed" },
+    { source: "Setopati", category: "General", url: "https://www.setopati.com/rss" },
+    { source: "Ratopati", category: "General", url: "https://ratopati.com/feed" },
+    { source: "Kantipur", category: "General", url: "https://ekantipur.com/rss" },
+    { source: "Nagarik News", category: "General", url: "https://nagariknews.nagariknetwork.com/rss" },
+    { source: "The Kathmandu Post", category: "World", url: "https://kathmandupost.com/rss" },
+    { source: "Bizshala", category: "Business", url: "https://bizshala.com/feed" },
+    { source: "TechLekh", category: "Tech", url: "https://techlekh.com/feed" },
+    { source: "GadgetByte", category: "Tech", url: "https://www.gadgetbytenepal.com/feed" },
+    { source: "Hamro Khelkud", category: "Sports", url: "https://www.hamrokhelkud.com/feed" },
+    { source: "Goal Nepal", category: "Sports", url: "https://www.goalnepal.com/rss" },
+    { source: "Health TV Online", category: "Health", url: "https://healthtvonline.com/feed" },
+    { source: "Abhiyandaily", category: "Business", url: "https://www.abhiyandaily.com/rss" },
+    { source: "Lokaantar", category: "Politics", url: "https://lokaantar.com/rss" },
+    { source: "AarthikAbhiyan", category: "Business", url: "https://www.abhiyandaily.com/rss" },
+    { source: "Himalayan Times", category: "World", url: "https://thehimalayantimes.com/rss" },
+    { source: "Ujyaalo Online", category: "General", url: "https://ujyaaloonline.com/feed" },
+    { source: "OsNepal", category: "Entertainment", url: "https://www.osnepal.com/feed" },
+    { source: "Nepali Sansar", category: "World", url: "https://www.nepalisansar.com/feed" },
+    { source: "New Business Age", category: "Business", url: "https://www.newbusinessage.com/feed" }
+];
